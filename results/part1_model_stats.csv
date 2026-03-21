@@ -1,0 +1,3 @@
+model,params,params_k,approx_size_kb,approx_size
+Teacher - ResNet50,23514179,23514.179,92060.175781,89.90 MB
+Student - MicroCNN,21075,21.075,83.097656,83.10 KB

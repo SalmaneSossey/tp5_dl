@@ -5,8 +5,11 @@ __pycache__/
 data/
 figures/*
 !figures/.gitkeep
+!figures/*.png
 results/*
 !results/.gitkeep
+!results/*.csv
+!results/*.md
 reports/*.html
 *.pt
 *.pth

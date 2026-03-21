@@ -1,0 +1,4 @@
+gamma,accuracy,observation
+0.1,0.707589,Underweighted intermediate supervision underperformed the baseline student.
+0.5,0.80754,Best observed student result; feature supervision substantially helped.
+1.0,0.721974,A stronger feature term improved over gamma=0.1 but stayed below gamma=0.5.

@@ -1,0 +1,3 @@
+model,size,latency_ms,precision,IoT chip OK?
+Student alone,83.10 KB,0.388224,0.99839,Yes
+Student + KD,83.10 KB,0.365703,0.99966,Yes

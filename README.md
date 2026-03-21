@@ -2,7 +2,7 @@
 
 This repository contains the ENSIAS Deep Learning TP on knowledge distillation, from classical response-based KD to advanced feature-based and relational methods.
 
-The main deliverable is the notebook [notebooks/TP5_Knowledge_Distillation.ipynb](./notebooks/TP5_Knowledge_Distillation.ipynb). Supporting utilities are grouped in `src/` to keep the notebook readable and reusable.
+The main deliverable is the notebook [notebooks/TP5_Knowledge_Distillation.ipynb](./notebooks/TP5_Knowledge_Distillation.ipynb). The repository also includes modular support files in `src/`, but the notebook itself is standalone so it can run directly in VS Code or Colab.
 
 ## Project Overview
 

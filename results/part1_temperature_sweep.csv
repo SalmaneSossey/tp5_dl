@@ -1,0 +1,5 @@
+temperature,test_acc,observation
+1.0,0.999034,T=1 preserved strong accuracy on this simplified 3-class MNIST task.
+2.0,0.998067,A moderate temperature slightly reduced accuracy.
+4.0,0.999034,T=4 matched the best observed accuracy and is the TP reference setting.
+8.0,0.998067,Very soft targets did not improve the 0/8 discrimination here.

@@ -1,0 +1,4 @@
+configuration,lambda_D,lambda_A,accuracy
+RKD-D only,1.0,0.0,0.772321
+RKD-A only,0.0,2.0,0.752728
+RKD combined,1.0,2.0,0.744792

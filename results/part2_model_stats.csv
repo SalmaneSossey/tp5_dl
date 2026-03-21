@@ -1,0 +1,3 @@
+model,params,params_k,approx_size_kb,approx_size
+Teacher - VGG16,134276932,134276.932,524519.265625,512.23 MB
+Student - TinyCNN,98196,98.196,385.484375,385.48 KB

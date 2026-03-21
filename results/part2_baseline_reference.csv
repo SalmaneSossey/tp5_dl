@@ -1,0 +1,3 @@
+model,test_acc
+Student alone,0.762153
+Student + KD,0.736359

@@ -1,0 +1,4 @@
+student,params,accuracy without KD,accuracy with KD,observed regime/comment
+Large Student,11178051,0.999034,0.999034,No visible gain from KD in this high-capacity regime.
+Medium Student,21075,0.998711,0.999356,The medium student benefited the most from KD.
+Small Student,3283,0.997745,0.997101,The smallest student did not benefit from KD under this setup.
